@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Inchoo_Sourcetype>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends></depends>
+        </Inchoo_Sourcetype>
+    </modules>
+</config>
